@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Employee {}","map":{"version":3,"names":["Employee"],"sources":["D:\\angular\\EmployeeCrudAngular\\src\\app\\employee.ts"],"sourcesContent":["export class Employee {\n    id!:number;\n    name!:string;\n    address!:string;\n    salary!:number;\n}\n"],"mappings":"AAAA,OAAM,MAAOA,QAAQ"},"metadata":{},"sourceType":"module","externalDependencies":[]}
